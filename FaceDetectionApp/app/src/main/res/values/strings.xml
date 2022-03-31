@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FaceDetectionApp</string>
+    <string name="lgm">Let\'s Grow More(LGM)</string>
+    <string name="camera">Select</string>
+    <string name="ok_button">OK</string>
+    <string name="LGM">Let\'s Grow More (LGM)</string>
+</resources>
